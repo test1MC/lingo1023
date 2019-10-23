@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///C:/Users/lokamoto/Documents/My Translated Projects/NewProject15.liprjf/Source/Output/lokamoto/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries />
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="Article.htm" />
+    <Url
+      Source="Home.htm" />
+    <Url
+      Source="Release-Notes.htm" />
+    <Url
+      Source="System-Requirements.htm" />
+    <Url
+      Source="Template Instructions.pdf" />
+    <Url
+      Source="Resources/Images/Hero-Image.png" />
+    <Url
+      Source="Resources/Images/Icon-Circle1.png" />
+    <Url
+      Source="Resources/Images/Icon-Circle2.png" />
+    <Url
+      Source="Resources/Images/Icon-Facebook.png" />
+    <Url
+      Source="Resources/Images/Icon-Twitter.png" />
+    <Url
+      Source="Resources/Images/Logo.png" />
+    <Url
+      Source="Resources/Images/Minus.png" />
+    <Url
+      Source="Resources/Images/Plus.png" />
+    <Url
+      Source="Resources/MasterPages/Home-Page.flmsp" />
+    <Url
+      Source="Resources/MasterPages/Other-Topics.flmsp" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/TableStyles/Alternate-Row-Color.css" />
+  </SourceUrls>
+  <SourceLinkSetUrls />
+  <UsedUrls />
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>
